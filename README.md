@@ -6,9 +6,9 @@
 
 
 Output:
-Logged in as First App#2548
-Server: bhargav's server
-ServerID:  900735960239710248
-# List all users out from the server
-UserID:  900734850053574797
-Username:  First App
+Logged in as First App#2548<br/>
+Server: bhargav's server<br/>
+ServerID:  900735960239710248<br/>
+*List all users out from the server*
+UserID:  900734850053574797<br/>
+Username:  First App<br/>
